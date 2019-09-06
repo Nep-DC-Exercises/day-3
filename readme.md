@@ -1,4 +1,8 @@
-# Python Exercises (while loops)
+# While Loops
+
+### Date: 8/30/19
+
+### Summary
 
 This repository contains my answers to various python exercises from day 3 of DigitalCrafts. The prompts for each exercise are included as comment on line 1. The primary focus of these exercises were to practice using while loops.
 
